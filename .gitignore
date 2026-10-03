@@ -22,6 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 
 # amplify
@@ -29,3 +30,5 @@ node_modules
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+=======
+>>>>>>> 8b558294179559db2596951b0db393a0a0bc1a7d
